@@ -9,7 +9,8 @@ class ShoppingList extends Component {
 			{ id: uuid(), name: 'Eggs' },
 			{ id: uuid(), name: 'Milk' },
 			{ id: uuid(), name: 'Steak' },
-			{ id: uuid(), name: 'Water' }
+			{ id: uuid(), name: 'Water' },
+			{ id: uuid(), name: 'Etc..' }
 		]
 	}
 
