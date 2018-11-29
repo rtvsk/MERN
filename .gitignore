@@ -1,4 +1,4 @@
 .gitignore
 node_modules
 client/node_modules
-config/keys.js
+config/
